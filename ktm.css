@@ -1,0 +1,410 @@
+
+.arg1{
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    
+}
+.arg2{
+    position: absolute;
+    top: 60px;
+    left: 160px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+
+}
+.arg3{
+    position: absolute;
+    top: 60px;
+    left: 350px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-right: 12px;
+}
+.arg4{
+    position: absolute;
+    top: 60px;
+    left: 620px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.arg5{
+    position: absolute;
+    top: 60px;
+    left: 710px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.arg6{
+    position: absolute;
+    top: 60px;
+    left: 850px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.over-ktm{
+    cursor: pointer;
+    position: absolute;
+    top: 0px;
+    right: 50px;
+}
+.icon{
+    cursor: pointer;
+    position: absolute;
+    top: 50px;
+    right: 260px;
+}
+.icon1{
+    cursor: pointer;
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bgrnd{
+    position: relative;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+}
+.orange{
+    color: white;
+    position: absolute;
+    top: 60%;
+    left: 35%;
+    border: none;
+    background: rgb(255, 88, 5);
+    cursor: pointer;
+    height: 65px;
+    width: 140px;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+.orange:hover{
+    background-color: transparent;
+    border: solid  1px rgb(232, 110, 11);
+}
+
+.oranges{
+    color: white;
+    border: none;
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    background: rgb(255, 88, 5);
+    cursor: pointer;
+    margin-right: 8px;
+    height: 65px;
+    width: 235px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.oranges:hover{
+    background-color: transparent;
+    border: solid  1px rgb(232, 110, 11);
+}
+.text1{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    bottom: 50%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    cursor: default;
+}
+.text2{
+    position: absolute;
+    top: 45%;
+    left:30%;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    cursor: default;
+
+}
+.next1{
+    position: relative;
+    width: 100%;
+    height: 1100px;
+    background-color: white;
+}
+.text3{
+    position: absolute;
+    top: 80px;
+    left: 350px;
+    color: black;
+    font-weight: bold;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text4{
+    color: orangered;
+    position: absolute;
+    top: 160px;
+    left: 350px;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.arg7{
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    color: black;
+    width: 190px;
+    height:70px;
+    border:1px solid;
+    font-size: 15px ;
+    cursor: pointer;
+}
+.arg7:hover{
+    background-color: black;
+    color:white;
+}
+.arg8{
+    position: absolute;
+    top: 300px;
+    left: 700px;
+    color: white;
+    width: 250px;
+    height: 70px;
+    border: 1px solid;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: black;
+}
+.arg8:hover{
+    background-color: white;
+    color: black;
+}
+.pic{
+    position: absolute;
+    bottom: 50px;
+    width: 96.5%;
+    height: 580px;
+    cursor: pointer;
+    margin-left: 25px;
+}
+.next2{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background-color: white;
+}
+.inner_next2{
+    float: left;
+    padding: 10px;
+    width: 32%;
+}
+.pic1{
+    width: 465px;
+    height:370px ;
+    top: 50px;
+    cursor: pointer;
+}
+.inner_next2 h2{
+     font-size: 15px;
+     font-weight: bold;
+}
+.inner_next2 h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+.next3{
+    height: 900px;
+    width: 100%;
+    background-color: white;
+}
+.inner_next3{
+    float: left;
+    width: 32%;
+    margin-top: 30px;
+    padding: 10px;
+}
+.pic2{
+    width: 465px;
+    height:460px ;
+    cursor: pointer;
+}
+.inner_next3 h2{
+    font-size: 15px;
+    font-weight: bold;
+}
+.inner_next3 h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-display: block;
+    cursor: pointer;
+}
+.inner_next3 h1:hover{
+    color: orangered;
+    background-color: transparent;
+}
+.inner_next3 text{
+    font-size: 18px;
+    line-height: 35px;
+}
+.next4{
+    height:800px;
+    width: 100%;
+    margin: 0%;
+    margin-top: 80px;
+    float: left;
+}
+.inner_next4{
+   width: 50%;
+   height: 600px;
+   margin-left: 15px;
+   float: left;
+
+}
+.pic3{
+    top: 50px;
+    height:300px;
+    width: 50%;
+    float: left;
+    cursor: pointer;
+}
+.text_inner4{
+    background-color: black;
+    height:600px;
+    width: 50%;
+    position:absolute;
+    margin-left: 750px;
+}
+.find{
+    font-size: 45px;
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    top: 180px;
+    left: 120px;
+}
+.get{
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 270px;
+    left: 250px;
+}
+.follow_button{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: white;
+    border-width: 1px;
+    height: 70px;
+    width: 180px;
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    cursor: pointer;
+}
+.follow_button:hover{
+    color: orangered;
+    border-color: orangered;
+}
+.insta{
+    position: absolute;
+    left: 18px;
+    top: 22px;
+    height:23px;
+    width: 23px;
+}
+.white{
+    height: 400px;
+    width: 100%;
+    background-color:white;
+    margin-top: 800px;
+}
+.join{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 550px;
+}
+.signup{
+    font-size: 15px;
+    font-weight: bold;
+    background-color: white;
+    color: orangered;
+    width: 150px;
+    height:60px;
+    border-color: orangered;
+    border-width: 1px;
+    margin-left: 20px;
+}
+.signup:hover{
+    color:white;
+    background-color: orangered;
+}
+.para{
+    height: 50px;
+    width: 100%;
+}
+.para1{
+    font-size: 15px;
+    color: rgb(125, 123, 123);
+    text-align: center;
+}
+.final{
+    background-color: black;
+    width: 100%;
+    height: 530px;
+    margin-top: 10px;
+}
+.elements{
+    color: white;
+    font-size: 15px;
+}
+footer{
+    text-align: left;
+    padding: 2px;
+    color: black;
+}
+
+.final{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.footer{
+    width: 1514px;
+    background-color: black;
+    color: white;
+
+}
+.connect{
+    color: white;
+}
+.top{
+    color: orangered;
+}
